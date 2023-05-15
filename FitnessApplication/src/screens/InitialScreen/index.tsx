@@ -34,7 +34,7 @@ const InitialScreen: FC<IProps> = ({ navigation }) => {
           >
 <Text style={styles.loginText}>Or login</Text>
           </Pressable>
-          <Text style={styles.last}>Mazin Almaswaby &reg;</Text>
+          <Text style={styles.last}>Ammar Najjar &reg;</Text>
         </View>
       </ImageBackground>
     </View>
